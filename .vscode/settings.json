@@ -1,0 +1,10 @@
+{
+    "liveServer.settings.port": 5501
+    ,// settings.json
+"editor.minimap.enabled": false
+,
+// settings.json
+"explorer.autoReveal": false
+
+
+}
